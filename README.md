@@ -12,7 +12,8 @@ I'm Roman - a Magento and PHP Software Engeener, Open Source enthusiast and Data
 ## Domains
 
 - Ecommerce Development
-- Web Development
+- Web Development 
+- Performance Optimizations
 - Problem Solving
 - Software Architecture
 - Data Science
@@ -23,7 +24,7 @@ I'm Roman - a Magento and PHP Software Engeener, Open Source enthusiast and Data
 
 - PHP
 - Magento Platform
-- JavaScript/ReactJS
+- JavaScript/ReactJS/GatsbyJS
 - Python and Jupiner Notebooks for Data Science and Machine Learning
 - Golang for high-performance and multithread-enabled tools
 

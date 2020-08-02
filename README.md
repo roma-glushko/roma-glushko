@@ -17,6 +17,7 @@ I'm Roman - a Magento and PHP Software Engeener, Open Source enthusiast and Data
 - Problem Solving
 - Software Architecture
 - Data Science
+- Math Framework
 - SEO and Marketing
 - Security
 

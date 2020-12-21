@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm Roman - a Magento and PHP Software Engeener, Open Source enthusiast and Data Science dabbler 
+I'm Roman - Machine Learning and Software Engineer, Open Source enthusiast 👨‍💻🧪🛠💫
 
 ## Domains
 

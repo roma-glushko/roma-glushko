@@ -11,22 +11,20 @@ I'm Roman - Machine Learning and Software Engineer, Open Source enthusiast ðŸ‘¨â
 
 ## Domains
 
-- Ecommerce Development
-- Web Development 
+- Applied Machine Learning
+- Web Development
+- eCommerce Development
 - Performance Optimizations
-- Problem Solving
 - Software Architecture
-- Data Science
-- Math Framework
 - SEO and Marketing
 - Security
 
 ## Technologies
 
+- Python
 - PHP
 - Magento Platform
 - JavaScript/ReactJS/GatsbyJS
-- Python and Jupiner Notebooks for Data Science and Machine Learning
 - Golang for high-performance and multithread-enabled tools
 
 ## Stats

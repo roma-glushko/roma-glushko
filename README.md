@@ -7,25 +7,44 @@
 
 ## About Me
 
-I'm Roman - Machine Learning and Software Engineer, Open Source enthusiast 👨‍💻🧪🛠💫
+I'm Roman - Machine Learning and Software Engineer, Open Source Enthusiast and Life Explorer 👨‍💻🧪🛠💫
 
-## Domains
+I like to solve problems by creating <a href="">open source projects</a>, blog about <a href="https://www.romaglushko.com/blog/">things I learn</a> and <a href="https://www.romaglushko.com/thoughts/">thoughts I have</a>. 
+
+Currently, I'm converting from eCommerce development to Machine Learning Engineering. 
+
+If your team needs a help, feel free to reach out to me (<a href="https://www.romaglushko.com/cv/machine-learning-engineer">My CV</a>)!
+
+## Areas of Intrest
 
 - Applied Machine Learning
-- Web Development
-- eCommerce Development
-- Performance Optimizations
 - Software Architecture
-- SEO and Marketing
+- System Design
+- eCommerce
 - Security
 
-## Technologies
+## Data Science
+
+- Data Analysis
+- Classical Machine Learning Tasks (regression, classification, clusteting)
+- Forecasting
+- Image Classification
+- Object Detection
+
+## Languages
 
 - Python
+- JavaScript, HTML5, CSS3 (Flexbox <3)
 - PHP
-- Magento Platform
-- JavaScript/ReactJS/GatsbyJS
-- Golang for high-performance and multithread-enabled tools
+- Golang and Concurrent Applications
+
+## Tools
+
+- Scikit-Learn
+- Keras and PyTorch
+- Numpy and Pandas
+- Seaborn and Plotly
+
 
 ## Stats
 

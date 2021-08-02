@@ -13,8 +13,6 @@ I like to solve problems by creating <a href="">open source projects</a>, blog a
 
 Currently, I'm converting from eCommerce development to Machine Learning Engineering. 
 
-If your team needs a help, feel free to reach out to me (<a href="https://www.romaglushko.com/cv/machine-learning-engineer">My CV</a>)!
-
 ## Areas of Intrest
 
 - Applied Machine Learning

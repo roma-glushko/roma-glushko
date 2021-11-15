@@ -36,8 +36,8 @@ Currently, I'm converting from eCommerce development to Machine Learning Enginee
 
 ## Tools
 
-- Scikit-Learn
 - Keras and PyTorch
+- Scikit-Learn
 - Numpy, Pandas, Seaborn and Plotly
 
 

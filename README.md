@@ -15,11 +15,9 @@ Currently, I'm converting from eCommerce development to Machine Learning Enginee
 
 ## Areas of Intrest
 
-- Applied Machine Learning
-- Software Architecture
+- Applied Machine and Deep Learning
+- Software Engineering and Architecture
 - System Design
-- eCommerce
-- Security
 
 ## Data Science
 
@@ -33,15 +31,14 @@ Currently, I'm converting from eCommerce development to Machine Learning Enginee
 
 - Python
 - JavaScript, HTML5, CSS3 (Flexbox <3)
-- PHP
 - Golang and Concurrent Applications
+- PHP
 
 ## Tools
 
 - Scikit-Learn
 - Keras and PyTorch
-- Numpy and Pandas
-- Seaborn and Plotly
+- Numpy, Pandas, Seaborn and Plotly
 
 
 ## Stats

@@ -30,9 +30,11 @@ Currently, I'm converting from eCommerce development to Machine Learning Enginee
 ## Languages
 
 - Python
-- JavaScript, HTML5, CSS3 (Flexbox <3)
+- JavaScript with TypeScript, HTML5, CSS3 (Flexbox <3)
 - Golang and Concurrent Applications
 - PHP
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma-glushko&layout=compact&langs_count=10" />
 
 ## Tools
 
@@ -43,4 +45,4 @@ Currently, I'm converting from eCommerce development to Machine Learning Enginee
 
 ## Stats
 
-![Roman Glushko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roma-glushko&hide=["stars"]&show_icons=true)
+![Roman Glushko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roma-glushko&show_icons=true&count_private=true)

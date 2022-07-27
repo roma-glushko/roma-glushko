@@ -17,7 +17,8 @@ Currently, I'm converting from eCommerce development to Machine Learning Enginee
 
 - Applied Machine and Deep Learning
 - Software Engineering and Architecture
-- System Design
+- System Design, Distributed Systems, Kubernetes
+- Security
 
 ## Data Science
 
@@ -30,17 +31,18 @@ Currently, I'm converting from eCommerce development to Machine Learning Enginee
 ## Languages
 
 - Python
-- JavaScript with TypeScript, HTML5, CSS3 (Flexbox <3)
+- JavaScript (+ TypeScript 🔋)
 - Golang and Concurrent Applications
-- PHP
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma-glushko&layout=compact&langs_count=10" />
 
 ## Tools
 
-- Keras and PyTorch
-- Scikit-Learn
+- Keras, PyTorch, Scikit-Learn, Huggingface
 - Numpy, Pandas, Seaborn and Plotly
+- MLFlow
+- Airflow, Kubeflow
+- Kubernetes, Helm, ArgoCD/Flux
 
 
 ## Stats

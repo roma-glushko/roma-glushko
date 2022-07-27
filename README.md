@@ -31,8 +31,8 @@ Currently, I'm converting from eCommerce development to Machine Learning Enginee
 ## Languages
 
 - Python
-- JavaScript (+ TypeScript 🔋)
-- Golang and Concurrent Applications
+- JavaScript (+ TypeScript 🔋), a bit of NodeJs
+- Golang
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma-glushko&layout=compact&langs_count=10" />
 

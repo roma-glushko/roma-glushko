@@ -9,7 +9,7 @@
 
 I'm Roman - Machine Learning and Software Engineer, Open Source Enthusiast and Life Explorer 👨‍💻🧪🛠💫
 
-I like to solve problems by creating <a href="">open source projects</a>, blog about <a href="https://www.romaglushko.com/blog/">things I learn</a> and <a href="https://www.romaglushko.com/thoughts/">thoughts I have</a>. 
+I like to solve problems or hacking by creating <a href="">open source projects</a>, blog about <a href="https://www.romaglushko.com/blog/">things I learn</a> and <a href="https://www.romaglushko.com/thoughts/">thoughts I have</a>. 
 
 Currently, I'm converting from eCommerce development to Machine Learning Engineering. 
 

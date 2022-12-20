@@ -20,19 +20,22 @@ Currently, I'm converting from eCommerce development to Machine Learning Enginee
 - System Design, Distributed Systems, Kubernetes
 - Security
 
-## Data Science
+## Software Engineering
 
-- Data Analysis
+- Cloud Native Distributed Systems
+- Reliability Engineering
+
+## ML Engineering
+
 - Classical Machine Learning Tasks (regression, classification, clusteting)
-- Forecasting
 - Image Classification
 - Object Detection
 
 ## Languages
 
-- Python
-- JavaScript (+ TypeScript 🔋), a bit of NodeJs
+- Python3 (modern Python stack, asyncio)
 - Golang
+- JavaScript (+ TypeScript 🔋), a bit of NodeJs
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma-glushko&layout=compact&langs_count=10" />
 
@@ -43,7 +46,6 @@ Currently, I'm converting from eCommerce development to Machine Learning Enginee
 - MLFlow
 - Airflow, Kubeflow
 - Kubernetes, Helm, ArgoCD/Flux
-
 
 ## Stats
 

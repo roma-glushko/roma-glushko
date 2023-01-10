@@ -46,7 +46,3 @@ Currently, I'm converting from eCommerce development to Machine Learning Enginee
 - MLFlow
 - Airflow, Kubeflow
 - Kubernetes, Helm, ArgoCD/Flux
-
-## Stats
-
-![Roman Glushko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roma-glushko&show_icons=true&count_private=true)

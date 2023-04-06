@@ -11,7 +11,7 @@ I'm Roman - Software Engineer, Open Source Enthusiast and Life Explorer 👨‍�
 
 I like to solve problems or hacking by creating <a href="">open source projects</a>, blog about <a href="https://www.romaglushko.com/blog/">things I learn</a> and <a href="https://www.romaglushko.com/thoughts/">thoughts I have</a>.
 
-Currently, I'm designing and building distributed systems at @DataRobot.
+Currently, I'm designing and building distributed systems at DataRobot.
 
 ## Areas of Intrest
 

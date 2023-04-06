@@ -7,17 +7,17 @@
 
 ## About Me
 
-I'm Roman - Machine Learning and Software Engineer, Open Source Enthusiast and Life Explorer 👨‍💻🧪🛠💫
+I'm Roman - Software Engineer, Open Source Enthusiast and Life Explorer 👨‍💻🧪🛠💫
 
-I like to solve problems or hacking by creating <a href="">open source projects</a>, blog about <a href="https://www.romaglushko.com/blog/">things I learn</a> and <a href="https://www.romaglushko.com/thoughts/">thoughts I have</a>. 
+I like to solve problems or hacking by creating <a href="">open source projects</a>, blog about <a href="https://www.romaglushko.com/blog/">things I learn</a> and <a href="https://www.romaglushko.com/thoughts/">thoughts I have</a>.
 
-Currently, I'm converting from eCommerce development to Machine Learning Engineering. 
+Currently, I'm designing and building distributed systems at @DataRobot.
 
 ## Areas of Intrest
 
-- Applied Machine and Deep Learning
 - Software Engineering and Architecture
-- System Design, Distributed Systems, Kubernetes
+- System Design, Distributed Systems, Cloud Engineering, Kubernetes
+- Applied Machine and Deep Learning
 - Security
 
 ## Software Engineering
@@ -34,15 +34,15 @@ Currently, I'm converting from eCommerce development to Machine Learning Enginee
 ## Languages
 
 - Python3 (modern Python stack, asyncio)
-- Golang
+- GoLang
 - JavaScript (+ TypeScript 🔋), a bit of NodeJs
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma-glushko&layout=compact&langs_count=10" />
 
 ## Tools
 
+- Airflow, Kubeflow
+- Kubernetes, Helm, ArgoCD/Flux
 - Keras, PyTorch, Scikit-Learn, Huggingface
 - Numpy, Pandas, Seaborn and Plotly
 - MLFlow
-- Airflow, Kubeflow
-- Kubernetes, Helm, ArgoCD/Flux

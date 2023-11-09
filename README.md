@@ -35,14 +35,15 @@ Currently, I'm designing and building distributed systems at DataRobot.
 
 - Python3 (modern Python stack, asyncio)
 - GoLang
+- Rust
 - JavaScript (+ TypeScript 🔋), a bit of NodeJs
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma-glushko&layout=compact&langs_count=10" />
 
 ## Tools
 
-- Airflow, Kubeflow
 - Kubernetes, Helm, ArgoCD/Flux
+- Airflow, Kubeflow
 - Keras, PyTorch, Scikit-Learn, Huggingface
 - Numpy, Pandas, Seaborn and Plotly
 - MLFlow

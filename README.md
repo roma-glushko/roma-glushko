@@ -16,8 +16,7 @@ Currently, I'm designing and building distributed systems at DataRobot.
 ## Areas of Intrest
 
 - Software Engineering and Architecture
-- System Design, Distributed Systems, Cloud Engineering, Kubernetes
-- Applied Machine and Deep Learning
+- System Design, Distributed Systems, Cloud Engineering
 - Security
 
 ## Software Engineering

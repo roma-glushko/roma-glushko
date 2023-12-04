@@ -30,7 +30,7 @@ Currently, I'm designing and building distributed systems at DataRobot.
 - GoLang
 - Rust
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma-glushko&layout=compact&langs_count=10&hide=jupyter%20notebook,php,matlab,twig,astro,html,mdx" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roma-glushko&layout=compact&langs_count=10&hide=jupyter%20notebook,matlab,twig,astro,html,mdx" />
 
 ## Tools
 

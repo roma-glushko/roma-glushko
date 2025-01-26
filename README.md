@@ -15,6 +15,7 @@ Currently, I'm designing, building, maintaining, and evoloving distributed syste
 
 ## Blog Posts
 
+- [What's OAuth2, anyway?](https://www.romaglushko.com/blog/whats-aouth2/)
 - [Papercups: How to build a customer service platform?](https://www.romaglushko.com/blog/papercups/?utm_medium=social&utm_source=github&utm_campaign=gh_profile)
 - [OpenTelemetry Collector](https://www.romaglushko.com/blog/opentelemetry-collector/?utm_medium=social&utm_source=github&utm_campaign=gh_profile)
 - [OpenTelemetry SDK](https://www.romaglushko.com/blog/opentelemetry-sdk/?utm_medium=social&utm_source=github&utm_campaign=gh_profile)

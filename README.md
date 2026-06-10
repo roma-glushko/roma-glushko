@@ -11,7 +11,7 @@ I'm Roman - Software Engineer, Open Source Enthusiast and Life Explorer 👨‍�
 
 I like to solve problems or hacking by creating <a href="">open source projects</a>, blog about <a href="https://www.romaglushko.com/blog/?utm_medium=social&utm_source=github&utm_campaign=gh_profile">things I learn</a> and <a href="https://www.romaglushko.com/thoughts/?utm_medium=social&utm_source=github&utm_campaign=gh_profile">thoughts I have</a>.
 
-Currently, I'm designing, building, maintaining, and evoloving distributed systems at DataRobot.
+Currently, I'm working on AI/HPC Kubernetes clusters at NVIDIA Corporation.
 
 ## Blog Posts
 
